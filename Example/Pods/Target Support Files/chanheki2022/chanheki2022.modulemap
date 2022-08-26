@@ -1,0 +1,6 @@
+framework module chanheki2022 {
+  umbrella header "chanheki2022-umbrella.h"
+
+  export *
+  module * { export * }
+}

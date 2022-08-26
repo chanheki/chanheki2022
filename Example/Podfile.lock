@@ -1,0 +1,16 @@
+PODS:
+  - chanheki2022 (0.1.0)
+
+DEPENDENCIES:
+  - chanheki2022 (from `../`)
+
+EXTERNAL SOURCES:
+  chanheki2022:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  chanheki2022: 3c2f9d002f7f397096d49299e162832179775881
+
+PODFILE CHECKSUM: beb9cd55e17ad68113743dd4d55806f12db2d926
+
+COCOAPODS: 1.11.3

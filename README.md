@@ -22,7 +22,7 @@ pod 'chanheki2022'
 
 ## Author
 
-85754295, chanhihi55@gmail.com
+chanheki, chanhihi55@gmail.com
 
 ## License
 

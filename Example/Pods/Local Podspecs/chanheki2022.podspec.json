@@ -1,0 +1,22 @@
+{
+  "name": "chanheki2022",
+  "version": "0.1.0",
+  "summary": "A short description of chanheki2022.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/85754295/chanheki2022",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "85754295": "chanhihi55@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/85754295/chanheki2022.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "chanheki2022/Classes/**/*"
+}
